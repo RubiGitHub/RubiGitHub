@@ -1,0 +1,7 @@
+English:
+
+To open the game the browser will be used, but it is not necessary to have internet to play. 1. Right click on the "index" file. 2. Go to open with and open it with your preferred browser. 3. Have fun and play!
+
+Español:
+
+Para abrir el juego se usará el navegador, pero no hace falta tener internet para jugar. 1. haz un click derecho en el archivo "index". 2. Ve a abrir con y abrelo con tu navegador preferido. 3. Diviertete y juega!
